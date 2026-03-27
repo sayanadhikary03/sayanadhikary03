@@ -27,6 +27,12 @@ Email Me 👉 ✉️ **sayanadhikary003@gmail.com** for collaboration, project i
 ![](https://nirzak-streak-stats.vercel.app/?user=sayanadhi03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanadhi03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 📊 GitHub Stats
+
+![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanadhikary03&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanadhikary03&layout=compact&theme=radical)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
