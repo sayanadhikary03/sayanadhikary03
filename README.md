@@ -85,16 +85,35 @@ An AI-powered omnichannel retail assistant that unified online + offline shoppin
 </div>
 
 ---
-
 <div align="center">
 
-🧠 **I enjoy building software where AI is more than just a chatbot.**
+# 🗞️ THE ENGINEER'S JOURNAL
 
-From production-ready APIs and scalable backend systems to modern React applications and multi-agent AI workflows, I focus on creating software that is practical, reliable, and impactful.
+### *Technology • Artificial Intelligence • Software Engineering*
 
-🏆 **Runner-Up — EY Techathon 6.0 (185,000+ Participants)**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📍 Kolkata, India 🇮🇳
+## **SAYAN ADHIKARY**
+
+### Full-Stack Software Engineer • Agentic AI Developer
+
+*"Building intelligent software where AI creates real-world impact—not just conversations."*
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📰 **Breaking Story**
+
+From scalable backend systems and production-ready APIs to modern React applications and multi-agent AI workflows, Sayan focuses on developing practical software that bridges artificial intelligence with real-world business solutions.
+
+🏆 **Major Achievement**
+
+Runner-Up — EY Techathon 6.0 (185,000+ Participants)
+
+📍 **Published From**
+
+Kolkata, India 🇮🇳
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
