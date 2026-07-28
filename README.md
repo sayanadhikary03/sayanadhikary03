@@ -72,19 +72,29 @@ An AI-powered omnichannel retail assistant that unified online + offline shoppin
 
 ---
 
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Sayan Adhikary
 
 <div align="center">
 
-### Full-Stack Software Engineer • Agentic AI Developer
+### ⚡ Full-Stack Software Engineer • Agentic AI Engineer • AI Builder
 
-Building intelligent software that solves real-world problems.
+💻 Building scalable applications • 🤖 Developing AI Agents • ☁️ Exploring Cloud
 
-From scalable backend systems and production APIs to modern React applications and AI-powered workflows, I enjoy designing products that are fast, reliable, and practical.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Applications;Full-Stack+Developer;FastAPI+%7C+React+%7C+Next.js+%7C+TypeScript;LangChain+%7C+LangGraph+%7C+RAG+Systems;Always+Learning+Something+New+🚀" />
 
-🏆 Runner-Up at EY Techathon 6.0 (185,000+ participants)
+</div>
 
-📍 Kolkata, India
+---
+
+<div align="center">
+
+🧠 **I enjoy building software where AI is more than just a chatbot.**
+
+From production-ready APIs and scalable backend systems to modern React applications and multi-agent AI workflows, I focus on creating software that is practical, reliable, and impactful.
+
+🏆 **Runner-Up — EY Techathon 6.0 (185,000+ Participants)**
+
+📍 Kolkata, India 🇮🇳
 
 </div>
 
