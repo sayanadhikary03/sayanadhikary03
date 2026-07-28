@@ -74,23 +74,27 @@ An AI-powered omnichannel retail assistant that unified online + offline shoppin
 
 ## 🧠 About Me
 
-<div align="center">
+```yaml
+Name        : Sayan Adhikary
+Role        : Full-Stack Software Engineer
+Focus       : Agentic AI • Backend Systems • Modern Web Apps
+Location    : Kolkata, India 🇮🇳
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   Hi, I'm Sayan — a Full-Stack + Agentic AI Engineer from Kolkata.  ║
-║                                                                      ║
-║   I build systems where AI does real work — not just demos.          ║
-║   Multi-agent pipelines. RAG systems. Production APIs.               ║
-║   From PostgreSQL schemas to React UIs, I own the full stack.        ║
-║                                                                      ║
-║   I compete. I ship. I learn in public.                              ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+Experience:
+  - Technology Consultant Intern @ EY
+  - Runner-Up • EY Techathon 6.0 (185K+ Participants)
 
-</div>
+Currently Building:
+  - AI-powered Applications
+  - Multi-Agent Systems
+  - Production-grade APIs
+  - Scalable Full-Stack Platforms
+
+Learning:
+  - Distributed Systems
+  - Cloud Architecture
+  - Advanced System Design
+```
 
 ```typescript
 const sayan: Engineer = {
