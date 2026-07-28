@@ -221,35 +221,17 @@ Built complete JWT auth in both Node.js (Express) and Python (FastAPI) — educa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayanadhikary03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0d1a&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0&ring_color=7c3aed" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayanadhikary03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0d1a&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0" height="170"/>
+
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanadhikary03&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" height="170" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayanadhikary03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sayanadhikary03&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" width="55%" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sayanadhikary03&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanadhikary03&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=1e1b4b&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Sayan%20Adhikary" width="100%" />
+<img src="https://streak-stats.demolab.com?user=sayanadhikary03&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" width="55%"/>
 
 </div>
 
