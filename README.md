@@ -102,63 +102,17 @@ Kolkata, India 🇮🇳
 
 </div>
 
-## 📰 THE ENGINEER'S CHRONICLE
+## 💻 Technical Skills
 
-> **Technology • Artificial Intelligence • Software Engineering**
->
-> ### 👤 PROFILE
->
-> **Name:** Sayan Adhikary  
-> **Profession:** **Full-Stack Software Engineer • Agentic AI Developer**  
-> **Location:** Kolkata, West Bengal, India 🇮🇳  
-> **Education:** B.Tech CSE · Techno Engineering College, Banipur (2026)
->
-> 🏆 **HEADLINE**
->
-> **Runner-Up — EY Techathon 6.0**  
-> Competing against **185,000+ participants nationwide**.
+**💡 Languages:** Python • JavaScript
 
----
+**🌐 Full-Stack:** React.js • Node.js • FastAPI • Tailwind CSS
 
-### 📰 FRONT PAGE — EXPERTISE
+**🤖 GenAI:** LLMs • LangChain • LangGraph • RAG
 
-| **SECTION** | **FEATURED TECHNOLOGIES** |
-|-------------|---------------------------|
-| 🤖 **AGENTIC AI** | **LangChain • LangGraph • OpenAI APIs • RAG Pipelines • ChromaDB** |
-| ⚙️ **BACKEND** | **Python • FastAPI • Node.js • Express.js • PostgreSQL • Redis** |
-| 🎨 **FRONTEND** | **React.js • Next.js • TypeScript • Tailwind CSS • Vite** |
-| ☁️ **CLOUD** | **AWS (EC2, S3) • Firebase • Vercel** |
-| 🧩 **SYSTEMS** | **System Design • DSA (C++) • REST APIs • JWT Authentication • Git** |
+**🗄️ Databases:** MongoDB • PostgreSQL • SQLite
 
----
-
-### 📰 CAREER DESK — CURRENTLY LEARNING
-
-🟢 **Advanced DSA in C++**
-
-🟢 **System Design Patterns**
-
-🟢 **Distributed Systems**
-
-🟢 **Cloud Architecture**
-
----
-
-### 📰 PROJECTS MAKING HEADLINES
-
-| **PROJECT** | **NEWS** |
-|-------------|----------|
-| 🏆 **Retail Buddy** | National Runner-Up at EY Techathon 6.0 — AI Omnichannel Retail Assistant |
-| 🚀 **CarbonIQ** | Agentic Carbon Credit Verification Platform using LangGraph, FastAPI & PostgreSQL |
-| 🎬 **AdMorph AI** | AI-powered Ad & Video Generation using GPT-4.1-mini, Flux & Wan 2.2 |
-
----
-
-### 📰 EDITOR'S NOTE
-
-> *"I enjoy building intelligent software where AI solves real-world problems—not just demos. My focus is on production-ready systems, scalable architecture, and creating software that delivers measurable value."*
-
----
+**☁️ Cloud & Tools:** AWS (Basics) • Git • GitHub • Postman
 
 ## 🚀 Projects
 
