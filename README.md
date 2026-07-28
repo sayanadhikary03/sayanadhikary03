@@ -72,21 +72,6 @@ An AI-powered omnichannel retail assistant that unified online + offline shoppin
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Sayan Adhikary
-
-<div align="center">
-
-### ⚡ Full-Stack Software Engineer • Agentic AI Engineer • AI Builder
-
-💻 Building scalable applications • 🤖 Developing AI Agents • ☁️ Exploring Cloud
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Applications;Full-Stack+Developer;FastAPI+%7C+React+%7C+Next.js+%7C+TypeScript;LangChain+%7C+LangGraph+%7C+RAG+Systems;Always+Learning+Something+New+🚀" />
-
-</div>
-
----
-<div align="center">
-
 # 🗞️ THE ENGINEER'S JOURNAL
 
 ### *Technology • Artificial Intelligence • Software Engineering*
@@ -117,33 +102,61 @@ Kolkata, India 🇮🇳
 
 </div>
 
-```typescript
-const sayan: Engineer = {
-  identity    : "Full-Stack + Agentic AI Engineer",
-  location    : "Kolkata, West Bengal, India 🇮🇳",
-  education   : "B.Tech CSE · Techno Engineering College, Banipur (2026)",
+## 📰 THE ENGINEER'S CHRONICLE
 
-  achievement : "🥈 2nd Place Nationally · EY Techathon 6.0 (185,000+ participants)",
+> **Technology • Artificial Intelligence • Software Engineering**
+>
+> ### 👤 PROFILE
+>
+> **Name:** Sayan Adhikary  
+> **Profession:** **Full-Stack Software Engineer • Agentic AI Developer**  
+> **Location:** Kolkata, West Bengal, India 🇮🇳  
+> **Education:** B.Tech CSE · Techno Engineering College, Banipur (2026)
+>
+> 🏆 **HEADLINE**
+>
+> **Runner-Up — EY Techathon 6.0**  
+> Competing against **185,000+ participants nationwide**.
 
-  expertise   : {
-    agenticAI   : ["LangChain", "LangGraph", "OpenAI APIs", "RAG Pipelines", "ChromaDB"],
-    backend     : ["Python", "FastAPI", "Node.js", "Express.js", "PostgreSQL", "Redis"],
-    frontend    : ["React.js", "Next.js", "TypeScript", "TailwindCSS", "Vite"],
-    cloud       : ["AWS (EC2, S3, basics)", "Firebase", "Vercel"],
-    systems     : ["System Design", "DSA in C++", "JWT Auth", "REST APIs", "Git"],
-  },
+---
 
-  currentlyLearning : ["Advanced DSA in C++", "System Design patterns", "Distributed Systems"],
+### 📰 FRONT PAGE — EXPERTISE
 
-  projects    : {
-    "Retail Buddy" : "🏆 EY Techathon — National 2nd Place · AI omnichannel retail assistant",
-    "AdMorph AI"   : "AI ad creative & video generation · GPT-4.1-mini + Flux + Wan 2.2",
-    "CarbonIQ"     : "Agentic carbon credit verification · LangGraph + FastAPI + PostgreSQL",
-  },
+| **SECTION** | **FEATURED TECHNOLOGIES** |
+|-------------|---------------------------|
+| 🤖 **AGENTIC AI** | **LangChain • LangGraph • OpenAI APIs • RAG Pipelines • ChromaDB** |
+| ⚙️ **BACKEND** | **Python • FastAPI • Node.js • Express.js • PostgreSQL • Redis** |
+| 🎨 **FRONTEND** | **React.js • Next.js • TypeScript • Tailwind CSS • Vite** |
+| ☁️ **CLOUD** | **AWS (EC2, S3) • Firebase • Vercel** |
+| 🧩 **SYSTEMS** | **System Design • DSA (C++) • REST APIs • JWT Authentication • Git** |
 
-  funFact     : "I debug AI agents and ship full-stack apps — sometimes simultaneously 😅",
-};
-```
+---
+
+### 📰 CAREER DESK — CURRENTLY LEARNING
+
+🟢 **Advanced DSA in C++**
+
+🟢 **System Design Patterns**
+
+🟢 **Distributed Systems**
+
+🟢 **Cloud Architecture**
+
+---
+
+### 📰 PROJECTS MAKING HEADLINES
+
+| **PROJECT** | **NEWS** |
+|-------------|----------|
+| 🏆 **Retail Buddy** | National Runner-Up at EY Techathon 6.0 — AI Omnichannel Retail Assistant |
+| 🚀 **CarbonIQ** | Agentic Carbon Credit Verification Platform using LangGraph, FastAPI & PostgreSQL |
+| 🎬 **AdMorph AI** | AI-powered Ad & Video Generation using GPT-4.1-mini, Flux & Wan 2.2 |
+
+---
+
+### 📰 EDITOR'S NOTE
+
+> *"I enjoy building intelligent software where AI solves real-world problems—not just demos. My focus is on production-ready systems, scalable architecture, and creating software that delivers measurable value."*
 
 ---
 
