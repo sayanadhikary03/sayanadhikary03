@@ -1,167 +1,201 @@
 <div align="center">
 
-<!-- Editorial Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f8f8f6&height=12&section=header" width="100%" />
+<!-- Terminal Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=8&section=header" width="100%" />
 
 </div>
 
----
+```
+ ________  ________  ___    ___ ________  ________      
+|\   ____\|\   __  \|\  \  /  /|\   __  \|\   ___  \    
+\ \  \___|\ \  \|\  \ \  \/  / | \  \|\  \ \  \\ \  \   
+ \ \_____  \ \   __  \ \    / / \ \   __  \ \  \\ \  \  
+  \|____|\  \ \  \ \  /     \/   \ \  \ \  \ \  \\ \  \ 
+    ____\_\  \ \__\ \__\__/\__\   \ \__\ \__\ \__\\ \__\
+   |\_________\|__|\|__|\|__\|__|   \|__|\|__|\|__| \|__|
+   \|_________|                                          
+```
 
 <div align="center">
 
-<sub>SOFTWARE ENGINEER · KOLKATA, INDIA · B.TECH CSE 2026</sub>
-
-# Sayan Adhikary
-
-### *Full-Stack Engineer & AI/GenAI Systems Builder*
-
-<sub>Building intelligent systems that sit at the intersection of agentic AI and modern web engineering —<br/>from LangGraph pipelines to production-grade full-stack platforms.</sub>
-
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=500&color=4ADE80&center=true&vCenter=true&width=600&lines=initializing+terminal...;loading+sayan_adhikary.exe...;%24+whoami+%E2%86%92+Full-Stack+%2B+AI%2FGenAI+Engineer;%24+uptime+%E2%86%92+building+since+2022;%24+status+%E2%86%92+open+to+work+%F0%9F%9F%A2" alt="Typing SVG" />
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-**🏆 EY Techathon 6.0**
-Runner-Up
-Top 12 of 185,000+
-
-*Built Retail Buddy — an AI omnichannel assistant for ABFRL's retail problem statement*
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🌿 CarbonXPro**
-Software Dev Intern
-
-*Agentic carbon-credit verification platform using LangGraph, FastAPI & PostgreSQL*
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🎨 AdMorph AI**
-Founder & Builder
-
-*AI ad creative & video generation — GPT-4.1-mini, Flux 1.1 Pro, Wan 2.2 via Replicate*
-
-</td>
-</tr>
-</table>
-
 ---
 
-## On Engineering
-
+```bash
+┌──(sayan㉿github)-[~/profile]
+└─$ cat whoami.json
 ```
-I build systems where LLMs do real work — not demos, but production pipelines.
-Agentic AI with LangGraph. RAG with ChromaDB. Auth with JWT. APIs with FastAPI.
-Full-stack from Postgres to React. Currently: carbon credit verification @ CarbonXPro.
+
+```json
+{
+  "name"        : "Sayan Adhikary",
+  "role"        : "Full-Stack + AI/GenAI Engineer",
+  "location"    : "Kolkata, West Bengal, India 🇮🇳",
+  "education"   : "B.Tech CSE @ Techno Engineering College, Banipur (2022–2026)",
+  "current"     : "Software Dev Intern @ CarbonXPro",
+  "building"    : ["Agentic AI workflows", "CarbonIQ — carbon credit verification platform"],
+  "achievement" : "🏆 Runner-Up · EY Techathon 6.0 (Top 12 of 185,000+ participants)",
+  "status"      : "open_to_work",
+  "fun_fact"    : "I debug AI agents and ship full-stack apps — sometimes simultaneously"
+}
 ```
 
 ---
 
-## Currently
+```bash
+┌──(sayan㉿github)-[~/profile]
+└─$ cat stack.sh
+```
 
-| | |
-|---|---|
-| **Role** | Software Development Intern · CarbonXPro |
-| **Building** | Agentic AI workflows · Carbon credit verification (CarbonIQ) |
-| **Stack** | LangChain · LangGraph · FastAPI · React · PostgreSQL · Redis |
-| **Learning** | Advanced DSA in C++ · System Design · Distributed Systems |
-| **Open to** | Full-time SDE roles · AI/GenAI Engineering positions |
+```bash
+#!/bin/bash
 
----
+# ── AI / GenAI ─────────────────────────────────────────────
+AI_STACK=(
+  "LangChain"   "LangGraph"   "OpenAI APIs"
+  "RAG Pipelines"  "ChromaDB"   "Replicate"
+)
 
-## Craft
+# ── Backend ────────────────────────────────────────────────
+BACKEND=(
+  "Python"      "FastAPI"     "Node.js"
+  "Express.js"  "PostgreSQL"  "Redis"
+  "JWT Auth"    "AWS"
+)
 
-#### AI / GenAI
+# ── Frontend ───────────────────────────────────────────────
+FRONTEND=(
+  "React.js"    "Next.js"     "TailwindCSS"
+  "TypeScript"  "Vite"
+)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4f46e5?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0f766e?style=flat-square&logo=buffer&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-f97316?style=flat-square&logo=databricks&logoColor=white)
-![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat-square&logo=replicate&logoColor=white)
+# ── Tools & Languages ──────────────────────────────────────
+TOOLS=(
+  "C++"         "MongoDB"     "Git"
+  "Firebase"    "Docker"
+)
 
-#### Backend & Infrastructure
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-#### Frontend
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-#### Language & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+echo "[✓] Stack loaded successfully."
+```
 
 ---
 
-## Numbers
+```bash
+┌──(sayan㉿github)-[~/achievements]
+└─$ ls -la
+```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayanadhikary03&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=ffffff" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanadhikary03&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=111111&text_color=555555&bg_color=ffffff" height="160" />
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=sayanadhikary03&theme=default&hide_border=true&background=ffffff&currStreakLabel=111111&sideLabels=555555&dates=555555&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111" width="50%" />
-
-</div>
+```
+drwxr-xr-x  achievements/
+├── 🏆  ey_techathon_6.0/
+│   ├── result     → Runner-Up (Top 12 of 185,000+ participants)
+│   ├── project    → Retail Buddy — AI omnichannel retail assistant
+│   └── client     → ABFRL problem statement
+│
+├── 🤖  admorph_ai/
+│   ├── type       → AI Ad Creative & Video Generation Platform
+│   ├── models     → GPT-4.1-mini, Flux 1.1 Pro, Wan 2.2
+│   └── infra      → Replicate API, React frontend
+│
+└── 🌿  carbonxpro/
+    ├── role       → Software Development Intern
+    ├── building   → CarbonIQ — Agentic carbon credit verification
+    └── stack      → LangGraph, FastAPI, PostgreSQL, Redis
+```
 
 ---
 
-## Contribution Record
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanadhikary03&bg_color=ffffff&color=111111&line=333333&point=111111&area=true&area_color=eeeeee&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
-
----
-
-## Connect
+```bash
+┌──(sayan㉿github)-[~/stats]
+└─$ ./fetch_github_stats.sh --user sayanadhikary03
+```
 
 <div align="center">
 
-<sub>AVAILABLE FOR FULL-TIME ROLES · OPEN TO COLLABORATION</sub>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayan_Adhikary-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-adhikary03)
+<img src="https://github-readme-stats.vercel.app/api?username=sayanadhikary03&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=4ade80&text_color=d4d4d4&icon_color=4ade80&ring_color=4ade80" height="165" />
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-sayanadhikary003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sayanadhikary003@gmail.com)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@yoursayann-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yoursayann)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanadhikary03&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0a0a0a&title_color=4ade80&text_color=d4d4d4" height="165" />
 
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=sayanadhi03&label=Profile+Views&color=555555&style=flat-square" />
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=sayanadhikary03&theme=chartreuse-dark&hide_border=true&background=0a0a0a&currStreakLabel=4ade80&sideLabels=4ade80&dates=888888&ring=4ade80&fire=4ade80&currStreakNum=ffffff&sideNums=ffffff" width="50%" />
 
 </div>
 
 ---
 
+```bash
+┌──(sayan㉿github)-[~/stats]
+└─$ ./contribution_graph.sh --mode=heatmap
+```
+
 <div align="center">
-<sub>© Sayan Adhikary · Kolkata, West Bengal, India · 2026</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanadhikary03&bg_color=0a0a0a&color=4ade80&line=22c55e&point=4ade80&area=true&area_color=052e16&hide_border=true&custom_title=commit%20history" width="100%" />
+</div>
+
+---
+
+```bash
+┌──(sayan㉿github)-[~/trophies]
+└─$ ./fetch_trophies.sh --theme=matrix
+```
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sayanadhi03&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+```bash
+┌──(sayan㉿github)-[~/profile]
+└─$ cat connect.sh && bash connect.sh
+```
+
+```bash
+#!/bin/bash
+# Initializing connection channels...
+
+LINKEDIN="https://linkedin.com/in/sayan-adhikary03"
+EMAIL="sayanadhikary003@gmail.com"
+INSTAGRAM="https://instagram.com/yoursayann"
+
+echo "[✓] LinkedIn  → $LINKEDIN"
+echo "[✓] Email     → $EMAIL"
+echo "[✓] Instagram → $INSTAGRAM"
+echo ""
+echo "[→] DM for collaborations, roles, or just to talk AI/GenAI."
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234ade80?style=flat-square&logo=linkedin&logoColor=0a0a0a)](https://linkedin.com/in/sayan-adhikary03)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%234ade80?style=flat-square&logo=gmail&logoColor=0a0a0a)](mailto:sayanadhikary003@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%234ade80?style=flat-square&logo=instagram&logoColor=0a0a0a)](https://instagram.com/yoursayann)
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sayanadhi03&label=profile+views&color=4ade80&style=flat-square" />
+
+</div>
+
+---
+
+```bash
+┌──(sayan㉿github)-[~/profile]
+└─$ echo "thanks for visiting. go build something."
+
+thanks for visiting. go build something.
+
+┌──(sayan㉿github)-[~/profile]
+└─$ █
+```
+
+<!-- Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sayanadhikary03/sayanadhikary03/output/github-snake-dark.svg" alt="contribution snake" />
 </div>
